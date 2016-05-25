@@ -1,0 +1,260 @@
+fcgio.lo: fcgio.cpp /usr/include/limits.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/limits.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/sys/syslimits.h \
+  ../include/fcgio.h /usr/include/c++/v1/iostream \
+  /usr/include/c++/v1/__config /usr/include/unistd.h \
+  /usr/include/sys/types.h /usr/include/machine/endian.h \
+  /usr/include/x86/endian.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/x86/_types.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/sys/unistd.h \
+  /usr/include/sys/_null.h /usr/include/errno.h \
+  /usr/include/sys/endian.h /usr/include/c++/v1/ios \
+  /usr/include/c++/v1/iosfwd /usr/include/wchar.h /usr/include/_ctype.h \
+  /usr/include/runetype.h /usr/include/xlocale/_wchar.h \
+  /usr/include/c++/v1/__locale /usr/include/c++/v1/string \
+  /usr/include/c++/v1/cstring /usr/include/string.h \
+  /usr/include/strings.h /usr/include/xlocale/_strings.h \
+  /usr/include/xlocale/_string.h /usr/include/c++/v1/cstdio \
+  /usr/include/stdio.h /usr/include/c++/v1/cwchar \
+  /usr/include/c++/v1/cwctype /usr/include/c++/v1/cctype \
+  /usr/include/ctype.h /usr/include/xlocale/_ctype.h \
+  /usr/include/wctype.h /usr/include/c++/v1/algorithm \
+  /usr/include/c++/v1/initializer_list /usr/include/c++/v1/cstddef \
+  /usr/include/stddef.h /usr/include/c++/v1/type_traits \
+  /usr/include/c++/v1/utility /usr/include/c++/v1/__tuple \
+  /usr/include/c++/v1/__tuple_03 /usr/include/c++/v1/memory \
+  /usr/include/c++/v1/typeinfo /usr/include/c++/v1/exception \
+  /usr/include/c++/v1/cstdint /usr/include/stdint.h \
+  /usr/include/machine/_stdint.h /usr/include/x86/_stdint.h \
+  /usr/include/c++/v1/new /usr/include/c++/v1/limits \
+  /usr/include/c++/v1/__undef_min_max /usr/include/c++/v1/iterator \
+  /usr/include/c++/v1/__functional_base \
+  /usr/include/c++/v1/__functional_base_03 /usr/include/c++/v1/__debug \
+  /usr/include/c++/v1/tuple /usr/include/c++/v1/stdexcept \
+  /usr/include/c++/v1/mutex /usr/include/c++/v1/__mutex_base \
+  /usr/include/c++/v1/chrono /usr/include/c++/v1/ctime \
+  /usr/include/time.h /usr/include/xlocale/_time.h \
+  /usr/include/c++/v1/ratio /usr/include/c++/v1/climits \
+  /usr/include/c++/v1/system_error /usr/include/c++/v1/cerrno \
+  /usr/include/pthread.h /usr/include/sched.h \
+  /usr/include/c++/v1/functional /usr/include/c++/v1/__functional_03 \
+  /usr/include/locale.h /usr/include/xlocale/_locale.h \
+  /usr/include/xlocale.h /usr/include/xlocale/_stdio.h \
+  /usr/include/c++/v1/streambuf /usr/include/c++/v1/istream \
+  /usr/include/c++/v1/ostream /usr/include/c++/v1/locale \
+  /usr/include/c++/v1/cstdarg /usr/include/stdarg.h \
+  /usr/include/x86/stdarg.h /usr/include/c++/v1/cstdlib \
+  /usr/include/stdlib.h /usr/include/xlocale/_stdlib.h \
+  /usr/include/nl_types.h /usr/include/c++/v1/bitset \
+  /usr/include/c++/v1/__bit_reference ../include/fcgiapp.h
+
+/usr/include/limits.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/limits.h:
+
+/usr/include/machine/_limits.h:
+
+/usr/include/x86/_limits.h:
+
+/usr/include/sys/syslimits.h:
+
+../include/fcgio.h:
+
+/usr/include/c++/v1/iostream:
+
+/usr/include/c++/v1/__config:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/x86/endian.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/x86/_types.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/endian.h:
+
+/usr/include/c++/v1/ios:
+
+/usr/include/c++/v1/iosfwd:
+
+/usr/include/wchar.h:
+
+/usr/include/_ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/xlocale/_wchar.h:
+
+/usr/include/c++/v1/__locale:
+
+/usr/include/c++/v1/string:
+
+/usr/include/c++/v1/cstring:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/xlocale/_strings.h:
+
+/usr/include/xlocale/_string.h:
+
+/usr/include/c++/v1/cstdio:
+
+/usr/include/stdio.h:
+
+/usr/include/c++/v1/cwchar:
+
+/usr/include/c++/v1/cwctype:
+
+/usr/include/c++/v1/cctype:
+
+/usr/include/ctype.h:
+
+/usr/include/xlocale/_ctype.h:
+
+/usr/include/wctype.h:
+
+/usr/include/c++/v1/algorithm:
+
+/usr/include/c++/v1/initializer_list:
+
+/usr/include/c++/v1/cstddef:
+
+/usr/include/stddef.h:
+
+/usr/include/c++/v1/type_traits:
+
+/usr/include/c++/v1/utility:
+
+/usr/include/c++/v1/__tuple:
+
+/usr/include/c++/v1/__tuple_03:
+
+/usr/include/c++/v1/memory:
+
+/usr/include/c++/v1/typeinfo:
+
+/usr/include/c++/v1/exception:
+
+/usr/include/c++/v1/cstdint:
+
+/usr/include/stdint.h:
+
+/usr/include/machine/_stdint.h:
+
+/usr/include/x86/_stdint.h:
+
+/usr/include/c++/v1/new:
+
+/usr/include/c++/v1/limits:
+
+/usr/include/c++/v1/__undef_min_max:
+
+/usr/include/c++/v1/iterator:
+
+/usr/include/c++/v1/__functional_base:
+
+/usr/include/c++/v1/__functional_base_03:
+
+/usr/include/c++/v1/__debug:
+
+/usr/include/c++/v1/tuple:
+
+/usr/include/c++/v1/stdexcept:
+
+/usr/include/c++/v1/mutex:
+
+/usr/include/c++/v1/__mutex_base:
+
+/usr/include/c++/v1/chrono:
+
+/usr/include/c++/v1/ctime:
+
+/usr/include/time.h:
+
+/usr/include/xlocale/_time.h:
+
+/usr/include/c++/v1/ratio:
+
+/usr/include/c++/v1/climits:
+
+/usr/include/c++/v1/system_error:
+
+/usr/include/c++/v1/cerrno:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/c++/v1/functional:
+
+/usr/include/c++/v1/__functional_03:
+
+/usr/include/locale.h:
+
+/usr/include/xlocale/_locale.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/xlocale/_stdio.h:
+
+/usr/include/c++/v1/streambuf:
+
+/usr/include/c++/v1/istream:
+
+/usr/include/c++/v1/ostream:
+
+/usr/include/c++/v1/locale:
+
+/usr/include/c++/v1/cstdarg:
+
+/usr/include/stdarg.h:
+
+/usr/include/x86/stdarg.h:
+
+/usr/include/c++/v1/cstdlib:
+
+/usr/include/stdlib.h:
+
+/usr/include/xlocale/_stdlib.h:
+
+/usr/include/nl_types.h:
+
+/usr/include/c++/v1/bitset:
+
+/usr/include/c++/v1/__bit_reference:
+
+../include/fcgiapp.h:
